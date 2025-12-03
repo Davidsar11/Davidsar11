@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:E94057&height=280&section=header&text=David%20Sarmiento&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20Backend%20%7C%20Big%20Data%20%26%20AI&descAlignY=60&descAlign=50" />
-</div>
-
-<div align="center">
   <h3>📍 Málaga, Spain</h3>
   <a href="mailto:dsarmientorincon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -67,6 +63,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Davidsar11&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&title_color=E94057&icon_color=61DAFB" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsar11&layout=compact&theme=dracula&hide_border=true&bg_color=20232a&title_color=E94057" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Davidsar11&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
