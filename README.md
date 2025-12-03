@@ -40,6 +40,9 @@
 
 <br />
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E94057&height=50&section=header&text=Frontend%20Ecosystem&fontSize=30&fontColor=ffffff" width="100%" />
+</div>
 
 <div align="center">
   <br>
@@ -58,7 +61,6 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Big_Data-20232a?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
