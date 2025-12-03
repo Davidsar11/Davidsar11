@@ -7,11 +7,8 @@
   <a href="mailto:dsarmientorincon@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="LINK_DE_TU_LINKEDIN">
+  <a href="[LINK_DE_TU_LINKEDIN](https://www.linkedin.com/in/david-sarmiento-rinc%C3%B3n-6b80b923a/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="LINK_DE_TU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=bento&logoColor=white"/>
   </a>
 </div>
 
@@ -31,9 +28,6 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0091D5&height=50&section=header&text=Backend%20Stack&fontSize=30&fontColor=ffffff" width="100%" />
-</div>
-<div align="center">
   <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -48,9 +42,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E94057&height=50&section=header&text=Frontend%20Ecosystem&fontSize=30&fontColor=ffffff" width="100%" />
-</div>
+
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -61,9 +53,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2387&height=50&section=header&text=Agile,%20Data%20%26%20Tools&fontSize=30&fontColor=ffffff" width="100%" />
-</div>
+
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/Agile_Scrum-3C873A?style=for-the-badge&logo=scrumalliance&logoColor=white" />
@@ -77,6 +67,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&title_color=E94057&icon_color=61DAFB" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dracula&hide_border=true&bg_color=20232a&title_color=E94057" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Davidsar11&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a&title_color=E94057&icon_color=61DAFB" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davidsar11&layout=compact&theme=dracula&hide_border=true&bg_color=20232a&title_color=E94057" height="150" alt="languages graph" />
 </div>
