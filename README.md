@@ -12,12 +12,11 @@
 
 <div align="center">
   <h3>🚀 About Me</h3>
-  <p width="600px">
-    I am a <b>Software Engineer</b> specializing in scalable <b>Backend Architectures</b> and modern <b>Frontend</b> interfaces. Currently bridging the gap between Software Engineering and <b>Big Data & AI</b>.
+  <p width="600px" align="justify">
+    Computer Engineer with a vocation for software engineering and <b>Agile methodologies</b>. As a <b>Full Stack Developer</b>, I have acquired practical experience in creating robust web applications with <b>Angular, React, Node.js, and SpringBoot</b>.
   </p>
-  <p>
-    🌱 <b>Learning:</b> Apache Kafka, Microservices Patterns, Big Data Pipelines.<br>
-    ⚡ <b>Focus:</b> Clean Code, Agile (Scrum), and High-Performance Systems.
+  <p width="600px" align="justify">
+    I possess skills in designing scalable solutions, including <b>RESTful APIs</b> and <b>Micro-FrontEnd architectures</b>. Currently, I am expanding my profile towards data engineering through a <b>Master's in Big Data and AI</b>, actively seeking to integrate both disciplines to build innovative and efficient systems.
   </p>
 </div>
 
